@@ -22,7 +22,7 @@ The goals of the analysis can be:
 •	Predict conversion rates for each possible age/gender/interest segment.
 
 
-Resources :
+References :
 
 https://rpubs.com/ippromek/277781
 
